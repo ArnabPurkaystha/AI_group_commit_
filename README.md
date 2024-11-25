@@ -91,6 +91,19 @@ Follow these steps to get Local Dining Guide up and running on your local machin
 ```
 
 
+## Usage
+- **Search for Restaurants**: Use the search functionality to find dining options based on your preferences
+- **Explore Restaurant**: Click on a restaurant to view its detailed profile, including menu items and reviews
+- **Read and Write Reviews**: Share your dining experiences by leaving reviews and ratings for restaurants
+- **Save Favourites**: Create an account to save your favourite restaurants and receive personalized recommendations
+- **Get Directions**: Click on the map integration to get directions to the selected restaurant
 
-
-
+## Contributors
+Thank you to the following contributors who have helped to improve this project:
+| Name | Email | Phone |
+|------|--------|-------|
+| Md Sakib Ul Islam | sakib.islam@bjitacademy.com | +8801722222222 |
+| Pinki Akter | pinki.akter@bjitacademy.com | +8801811111111 |
+| Saib Ahmed | saib.ahmed@bjitacademy.com | +8801811111113 |
+| Arnab Purkaystha | arnab.purkaystha@bjitacademy.com | +8801811111112 |
+| Durjoy Basak | durjoy.basak@bjitacadmey.com | +8801811111115 |
