@@ -107,3 +107,22 @@ Thank you to the following contributors who have helped to improve this project:
 | Saib Ahmed | saib.ahmed@bjitacademy.com | +8801811111113 |
 | Arnab Purkaystha | arnab.purkaystha@bjitacademy.com | +8801811111112 |
 | Durjoy Basak | durjoy.basak@bjitacadmey.com | +8801811111115 |
+
+
+![Contact Banner](https://www.pngkey.com/png/detail/420-4209017_we-want-to-know-what-you-think-about.png)
+
+## Contact Information
+For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website http://www.localdiningguide.com.
+
+
+### Follow us on social media:
+
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter Logo" width="16" height="16"> ![Twitter](https://img.shields.io/badge/Twitter-%40localdiningguide-blue)](https://twitter.com/localdiningguide)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook Logo" width="16" height="16"> ![Facebook](https://img.shields.io/badge/Facebook-LocalDiningGuide-blue)](https://facebook.com/LocalDiningGuide)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram Logo" width="16" height="16"> ![Instagram](https://img.shields.io/badge/Instagram-%40localdiningguide-purple)](https://instagram.com/localdiningguide)
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit!🍽️
+
