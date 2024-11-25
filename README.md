@@ -2,6 +2,7 @@
 
 Web Based Dining Information Solution
 
+
 Welcome to the Local Dining Guide project! This web-based software solution is designed to provide users with comprehensive dining information, making it easy for them to explore and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking for new culinary experiences or a traveller seeking the best dining spots in town, Local Dining Guide has got you covered.
 
 <img src="./logo.jpg" alt="Project Logo" width="200" height="120">
@@ -26,6 +27,40 @@ Local Dining Guide is a user-friendly platform that aims to connect users with l
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+
+## Development Technology
+
+### Front-End:
+
+- HTML, CSS, JavaScript
+- React (Front-end framework)
+- Map integration libraries (e.g., Leaflet) for location-based features
+- Responsive design for mobile and desktop devices
+
+
+### Back-End:
+
+
+&nbsp;&nbsp;&nbsp;1. Node.js or Python (Server-side scripting) 
+
+&nbsp;&nbsp;&nbsp;2. Express.js (Web application frameworks)
+
+&nbsp;&nbsp;&nbsp;3. MongoDB or PostgreSQL (Database management)
+
+&nbsp;&nbsp;&nbsp;4. Geocoding APIs (for mapping and location data)
+
+
+
+## Features
+
+- **Search**: Easily search for dining establishments based on location, cuisine, price range, and more.
+- **Restaurant Profiles**: Detailed profiles for each restaurant, including information about the cuisine, operating hours, contact details, and customer reviews.
+- **Menus**: Access to digital menus, helping users explore dishes before visiting the restaurant.
+- **Reviews and Ratings**: Read and write reviews and ratings to share experiences with the community.
+- **Map Integration**:  Integration with mapping services to provide directions to the selected restaurant.
+- **User Accounts**: Create accounts to save favourite restaurants, track dining history, and receive personalized recommendations.
+
+[Click](https://bjitacademy.com/) here for more details
 
 
 
@@ -54,6 +89,8 @@ Follow these steps to get Local Dining Guide up and running on your local machin
 ```bash
     open index.html
 ```
+
+
 
 
 
